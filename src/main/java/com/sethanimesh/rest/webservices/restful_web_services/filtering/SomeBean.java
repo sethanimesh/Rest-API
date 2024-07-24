@@ -35,6 +35,4 @@ public class SomeBean {
 	public String toString() {
 		return "SomeBean [value1=" + field1 + ", value2=" + field2 + ", value3=" + field3 + "]";
 	}
-	
-	
 }
